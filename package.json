@@ -1,0 +1,30 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "login mean with angular 6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizaro/login-node.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "angular",
+    "6",
+    "app"
+  ],
+  "author": "liza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizaro/login-node/issues"
+  },
+  "homepage": "https://github.com/lizaro/login-node#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.13"
+  }
+}
